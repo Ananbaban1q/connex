@@ -1,4 +1,4 @@
-ddd# Connex
+dddd# Connex
 
 Connex is the mono-repo contains libraries to help build dApps for VeChain.
 
