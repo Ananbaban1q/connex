@@ -1,4 +1,4 @@
-ddddddsddgit clone https://github.com/KULLANICI_ADI/DEPO_ADI.git
+denemeddddddsddgit clone https://github.com/KULLANICI_ADI/DEPO_ADI.git
  Connex
 
 Connex is the mono-repo contains libraries to help build dApps for VeChain.
